@@ -32,9 +32,9 @@ Module 1: Introduction to LLMOps
 
 Module 2: Working with LLMs
 
-- [ ] 2.0 Introduction
-- [ ] 2.1 Training LLMs: Strategies and Challenges
-- [ ] 2.2 Selecting Your LLM
+- [x] 2.0 Introduction
+- [x] 2.1 Training LLMs: Strategies and Challenges
+- [x] 2.2 Selecting Your LLM
 - [ ] 2.3 Prompting Engineering with LLMs
 - [ ] 2.4 Fine-tuning and Customizing LLMs
 - [ ] 2.5 Evaluating LLMs
