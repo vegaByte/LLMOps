@@ -26,9 +26,9 @@ Module 1: Introduction to LLMOps
 - [x] 1.0 Introduction
 - [x] 1.1 Brief Introduction to LLMs and LLMOps
 - [x] 1.2 Overview of LLMOps Lifecycle
-- [ ] 1.3 LLMOps Landscape
-- [ ] 1.4 LLMOps vs MLOps
-- [ ] 1.5 Introduction to Comet ML
+- [x] 1.3 LLMOps Landscape
+- [x] 1.4 LLMOps vs MLOps
+- [x] 1.5 Introduction to Comet ML
 
 Module 2: Working with LLMs
 
